@@ -1,0 +1,6 @@
+{
+    "TOKEN": "YOUR-BOT-TOKEN",
+    "FORWARD_CHANNEL_ID": -100,
+    "CHANNEL_ID": -100,
+    "ERROR_CHANNEL_ID": -100
+}
